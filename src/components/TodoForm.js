@@ -35,7 +35,7 @@ class TodoForm extends Component {
 
   render() {
     return (
-      <div className="card">
+      <div className="card todo-form-container">
         <form onSubmit={this.handleSubmit} className="card-body">
           <div className="form-group">
             <input

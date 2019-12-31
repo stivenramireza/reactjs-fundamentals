@@ -3,8 +3,12 @@
 }
 
 .App-logo {
-  height: 40vmin;
+  height: 10vmin;
   pointer-events: none;
+}
+
+.todo-form-container {
+  width: 300px;
 }
 
 @media (prefers-reduced-motion: no-preference) {
